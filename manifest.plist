@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sperte/heyfam-install/main/HeyFam-28.ipa</string>
+					<string>https://raw.githubusercontent.com/sperte/heyfam-install/main/HeyFam-29.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.sperte.heyfam</string>
 				<key>bundle-version</key>
-				<string>0.1.28</string>
+				<string>0.1.29</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
