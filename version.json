@@ -1,8 +1,8 @@
 {
-  "build": 31,
+  "build": 32,
   "version": "1.0",
-  "notes": "New reactions, Dark Mode, and Dinner Plans",
-  "built": "2026-11-27T02:10:34Z",
+  "notes": "New reactions, Dinner Plans, and more reactions",
+  "built": "2026-11-27T02:22:01Z",
   "manifest": "https://raw.githubusercontent.com/sperte/heyfam-install/main/manifest.plist",
   "page": "https://sperte.github.io/heyfam-install/"
 }
